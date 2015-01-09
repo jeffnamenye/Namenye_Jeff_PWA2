@@ -6,8 +6,9 @@ body{
 
 
  .header{
-
-     display: inline;
+     background-color: #EBF2F2;
+     text-align:left;
+     margin: 20px;
  }
 
 
