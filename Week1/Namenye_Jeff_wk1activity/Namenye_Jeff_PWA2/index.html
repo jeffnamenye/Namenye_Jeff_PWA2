@@ -1,6 +1,7 @@
 <!doctype html>  
 
 <!--
+Jeffrey Namenye
 	This is the main index of the application
 	
 	All your script tags should be at the bottom of this file
@@ -15,7 +16,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<title>Your Title Here</title>
+	<title>Jenna's Sweet Treats</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 	
@@ -29,9 +30,24 @@
 </head>
 
 <body>
+       <div class="header">
+           <img src="images/Jenna_Logo2.png" alt="logo" width="100" height="50" />
+       </div>
 
-	
-	
+         <h1>Welcome to Jenna's Sweet Treats</h1>
+       <form id="myform" class="group" action="#" method="POST">
+           UserName:
+           <input type="text" name="username"autofocus placeholder="User Name" required>
+           <br>
+           Password:
+           <input type="text" name="password"autofocus placeholder="Password" required>
+       </form>
+       <button type="submit" onclick="parent.location='dashboard.html'">Submit</button>
+
+
+       <h1>Sign up now</h1>
+       <p>To gain all access to the great do it yourself reciepes and all the great products</p>
+      <button type="submit" onclick="parent.location='registration.html'" >Join Now</button>
 	
 	<!-- jquery -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>

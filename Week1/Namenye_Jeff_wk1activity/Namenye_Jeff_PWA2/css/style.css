@@ -1,0 +1,6 @@
+#input.button:hover {
+    width: 40%;
+    margin-left: 2%;
+    float: none;
+    position:absolute;
+    display: inline-block;
