@@ -1,6 +1,44 @@
+
+
+body{
+    background-color: #CCC4A8;
+}
+
+
+ .header{
+
+     display: inline;
+ }
+
+
+
 #input.button:hover {
     width: 40%;
     margin-left: 2%;
     float: none;
     position:absolute;
     display: inline-block;
+}
+.reg{
+    width: 30%;
+    margin: 0 auto;
+    position: inherit;
+    top: 40%;
+}
+
+li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 40%;
+}
+
+ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 40%;
+}
+span{
+    color: red;
+}
