@@ -12,6 +12,9 @@ body{
 
  }
 
+.button{
+       background-color: #274659;
+}
 
 
 #input.button:hover {
@@ -20,6 +23,7 @@ body{
     float: none;
     position:absolute;
     display: inline-block;
+
 }
 .reg{
     width: 30%;
