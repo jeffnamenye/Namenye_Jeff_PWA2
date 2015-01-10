@@ -4,14 +4,12 @@
     <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/dashboard.html" afterPath="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/registration.html" afterPath="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/registration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/css/style.css" afterPath="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Namenye_Jeff_PWA2.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420466937760" ignored="false" />
     <file path="/index.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420845284437" ignored="false" />
-    <file path="/registration.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420850476913" ignored="false" />
+    <file path="/registration.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420850772516" ignored="false" />
     <file path="/style.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420850428304" ignored="false" />
     <file path="/dashboard.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420850607116" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,19 +94,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registration.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="registration.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/registration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="27" selection-start="951" selection-end="951" vertical-scroll-proportion="-8.666667">
+            <state line="68" column="64" selection-start="2445" selection-end="2445" vertical-scroll-proportion="0.6734059">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="32" selection-start="828" selection-end="828" vertical-scroll-proportion="0.32348368">
+            <state line="20" column="55" selection-start="503" selection-end="503" vertical-scroll-proportion="-0.5416667">
               <folding />
             </state>
           </provider>
@@ -136,8 +134,8 @@
         <option value="$PROJECT_DIR$/H.js" />
         <option value="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/index.html" />
         <option value="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/css/style.css" />
-        <option value="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/registration.html" />
         <option value="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/dashboard.html" />
+        <option value="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/registration.html" />
       </list>
     </option>
   </component>
@@ -438,16 +436,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/registration.html">
+    <entry file="file://$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="27" selection-start="951" selection-end="951" vertical-scroll-proportion="-8.666667">
+        <state line="20" column="55" selection-start="503" selection-end="503" vertical-scroll-proportion="-0.5416667">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/dashboard.html">
+    <entry file="file://$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/registration.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="32" selection-start="828" selection-end="828" vertical-scroll-proportion="0.32348368">
+        <state line="68" column="64" selection-start="2445" selection-end="2445" vertical-scroll-proportion="0.6734059">
           <folding />
         </state>
       </provider>
