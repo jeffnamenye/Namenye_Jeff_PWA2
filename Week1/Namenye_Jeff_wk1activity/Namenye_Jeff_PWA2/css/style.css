@@ -16,34 +16,35 @@ body{
        background-color: #274659;
 }
 
-
+ /***style of my buttons***/
 #input.button:hover {
-    width: 40%;
-    margin-left: 2%;
+    width: 100px;
+    margin-left: 50px;
     float: none;
     position:absolute;
     display: inline-block;
 
 }
+/***style of my register****/
 .reg{
-    width: 30%;
+    width: 400px;
     margin: 0 auto;
     position: inherit;
-    top: 40%;
+    top: 10px;
 }
 
 li{
     list-style: none;
     margin: 0;
     padding: 0;
-    width: 40%;
+    width: 350px;
 }
 
 ol {
     list-style: none;
     margin: 0;
     padding: 0;
-    width: 40%;
+    width: 350px;
 }
 span{
     color: red;
