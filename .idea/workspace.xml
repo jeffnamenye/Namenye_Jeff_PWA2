@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="" />
+    <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/index.html" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Namenye_Jeff_PWA2.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420466937760" ignored="false" />
-    <file path="/index.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420845284437" ignored="false" />
+    <file path="/index.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421247541148" ignored="false" />
     <file path="/registration.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420850772516" ignored="false" />
-    <file path="/style.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420850428304" ignored="false" />
-    <file path="/dashboard.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420850607116" ignored="false" />
+    <file path="/style.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421246001047" ignored="false" />
+    <file path="/dashboard.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421158315519" ignored="false" />
+    <file path="/mystyle.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421158023016" ignored="false" />
+    <file path="/main.js" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421257246986" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +49,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk_3_Namenye_Jeff/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="109" column="72" selection-start="5860" selection-end="5921" vertical-scroll-proportion="-53.125">
+            <state line="15" column="100" selection-start="329" selection-end="329" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
@@ -49,7 +58,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk2_Namenye_Jeff/Namenye_Jeff/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="8" selection-start="4151" selection-end="4151" vertical-scroll-proportion="-6.25">
+            <state line="86" column="8" selection-start="4151" selection-end="4151" vertical-scroll-proportion="-53.75">
               <folding />
             </state>
           </provider>
@@ -58,16 +67,34 @@
       <file leaf-file-name="mystyle.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk_3_Namenye_Jeff/mystyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="31" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+            <state line="35" column="18" selection-start="1107" selection-end="1151" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="dashboard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="73" selection-start="787" selection-end="787" vertical-scroll-proportion="0.21451613">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="44" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -76,16 +103,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="39" column="32" selection-start="1084" selection-end="1084" vertical-scroll-proportion="-19.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registration.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="32" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registration.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/registration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="28.833334">
               <folding />
             </state>
           </provider>
@@ -115,12 +151,18 @@
         <option value="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/css/style.css" />
         <option value="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/dashboard.html" />
         <option value="$PROJECT_DIR$/Week1/Namenye_Jeff_wk1activity/Namenye_Jeff_PWA2/registration.html" />
+        <option value="$PROJECT_DIR$/../Full Sail past work/DSW2/Wk_3_Namenye_Jeff/mystyle.css" />
+        <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html" />
+        <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html" />
+        <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/index.html" />
+        <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js" />
+        <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="503" />
-    <option name="y" value="67" />
+    <option name="x" value="-16" />
+    <option name="y" value="38" />
     <option name="width" value="914" />
     <option name="height" value="813" />
   </component>
@@ -253,6 +295,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -284,7 +327,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="503" y="67" width="914" height="813" extended-state="0" />
+    <frame x="-16" y="38" width="914" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -366,20 +409,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk2_Namenye_Jeff/Namenye_Jeff/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="8" selection-start="4151" selection-end="4151" vertical-scroll-proportion="-6.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk_3_Namenye_Jeff/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="72" selection-start="5860" selection-end="5921" vertical-scroll-proportion="-53.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk2_Namenye_Jeff/Namenye_Jeff/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="33" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
@@ -389,28 +418,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk_3_Namenye_Jeff/mystyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="31" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
+        <state line="35" column="18" selection-start="1107" selection-end="1151" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html">
+    <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk2_Namenye_Jeff/Namenye_Jeff/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="86" column="8" selection-start="4151" selection-end="4151" vertical-scroll-proportion="-53.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Full Sail past work/DSW2/Wk_3_Namenye_Jeff/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="100" selection-start="329" selection-end="329" vertical-scroll-proportion="-5.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="32" selection-start="1084" selection-end="1084" vertical-scroll-proportion="-19.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="32" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/registration.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="28.833334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="44" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="73" selection-start="787" selection-end="787" vertical-scroll-proportion="0.21451613">
           <folding />
         </state>
       </provider>

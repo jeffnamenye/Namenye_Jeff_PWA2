@@ -12,6 +12,25 @@ body{
 
  }
 
+ /******tooltip style*****/
+
+ .tooltip{
+     display: none;
+     position: absolute;
+     border: 1px solid #333;
+     background-color: #000000;
+     border-radius: 5px;
+     padding: 10px;
+     color: #ffffff;
+     font: Georgia;
+     font-size: 12px ;
+ }
+
+.one{
+
+    margin: 30px;
+}
+
 .button{
        background-color: #274659;
 }
