@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css" />
-    </list>
+    <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="" />
     <ignored path="Namenye_Jeff_PWA2.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420466937760" ignored="false" />
@@ -63,7 +61,7 @@
       <file leaf-file-name="project.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="96" selection-start="561" selection-end="561" vertical-scroll-proportion="0.62903225">
+            <state line="15" column="92" selection-start="317" selection-end="317" vertical-scroll-proportion="0.36290324">
               <folding />
             </state>
           </provider>
@@ -315,7 +313,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="498" y="36" width="914" height="813" extended-state="0" />
+    <frame x="498" y="36" width="914" height="813" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -469,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="96" selection-start="561" selection-end="561" vertical-scroll-proportion="0.62903225">
+        <state line="15" column="92" selection-start="317" selection-end="317" vertical-scroll-proportion="0.36290324">
           <folding />
         </state>
       </provider>
