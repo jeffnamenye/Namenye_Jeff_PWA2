@@ -1,9 +1,51 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Project...Jeff Namenye</title>
 </head>
 <body>
+<header>
+
+    <div class="userid">Welcome User:</div>
+
+    <div class="logoutbox">
+        <button class="dashboard">Dashboard</button>
+        <input name="logout" type="button" id="logout" value="Log Off"/>
+    </div>
+</header>
+
+
+    <div class="recipes">
+        <p> <a href="#" class="modalClick">Add +</a> </p>
+        <br>
+        <h2>Recipe's</h2>
+
+
+        <div id="overlay">
+            <div id="modal">
+                <span class="close">X</span>
+                <h3 class="header">Recipe's</h3>
+                <div id="add">
+                    <form id="addForm">
+                        <label>Recipe Name</label>
+                            <input name="recipeName" type="text" id="recipeName"/>
+          <br>
+                        <label>Ingredients</label>
+                        <input name="ingredients" type="text" id="ingredients"/>
+          <br>
+                        <label>Directions</label>
+                            <input name="directions" type="text" id="directions"/>
+           <br>
+                        <label>Cooking temp and time</label>
+                            <input name="cokking" type="text" id="cooking"/>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 
 </body>
 </html>
