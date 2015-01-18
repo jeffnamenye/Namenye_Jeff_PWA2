@@ -29,20 +29,19 @@
         });
 
     /*======Tabbed Accordion======*/
-       $('#tab p').hide().eq(0).show();
-       $('#tab p:not(:first)').hide();
+    $('#tabs p').hide().eq(0).show();
+    $('#tabs p:(:first)').hide();
 
-       $('#tab-nav li').click(function(e){
+    $('#tabs-nav li').click(function(e){
         e.preventDefault();
-        $('#tab p').hide();
+        $('#tabs p').hide();
 
-       $('#tab-nav  .current').removeClass("current");
-            $(this).addClass('current');
-            var clicked = $(this).find('a:first').attribute('href');
+        $('#tabs-nav .current').removeClass("current");
+        $(this).addClass('current');
+        var clicked = $(this).find('a:first').attr('href');
 
-          $('#tab ' + clicked).fadeIn('fast');
+        $('#tabs ' + clicked).fadeIn('fast');
     }).eq(0).addClass('current');
-	
 	/*=======Modal fading=====*/
     $('.mystatus').mouseover(function(){
         $(this).fadeTo(100, .3);
