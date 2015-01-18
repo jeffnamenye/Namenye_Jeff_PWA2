@@ -9,8 +9,8 @@
 
     $(".masterTooltip").hover(function(){
             //Hover over
-            var title = $(this).attributes('title');
-            $(this).data('tipText',title).removeAttribute('title');
+            var title = $(this).attr('title');
+            $(this).data('tipText' ,title).removeAttribute('title');
             $('<p class="tooltip"></p>')
                 .text(title)
                 .appendTo('body')
@@ -18,7 +18,7 @@
         },
         function(){
             //Hover out
-            $(this).attributes("title",$(this).data("tipText"));
+            $(this).attr("title",$(this).data("tipText"));
             $(".toolTip").remove();
         }) .mousemove(function(e) {
             var mousex = e.pageX + 20;
@@ -44,11 +44,11 @@
     }).eq(0).addClass('current');
 	
 	/*=======Modal fading=====*/
-    $('.mystatus').onmouseover(function(){
-        $(this).fadeTo(100,.3);
+    $('.mystatus').mouseover(function(){
+        $(this).fadeTo(100, .3);
      });
 
-    $('.mystatus').onmouseout(function{
+    $('.mystatus').mouseout(function(){
         $(this).fadeTo(100, 1);
     });
 
