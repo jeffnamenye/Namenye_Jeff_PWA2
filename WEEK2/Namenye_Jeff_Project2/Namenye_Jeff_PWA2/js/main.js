@@ -42,7 +42,25 @@
 
         $('#tabs ' + clicked).fadeIn('fast');
     }).eq(0).addClass('current');
+
+
 	/*=======Modal fading=====*/
+    $('.modalClick').on('click', function(event){
+        event.preventDefault();
+        $('#overlay')
+            .fadeIn()
+            .find('modal')
+            .fadeIn();
+    });
+
+    $('.close').on('click', function(event){
+        event.preventDefault();
+        $('#overlay')
+            .fadeOut()
+            .find('modal')
+            .fadeOut();
+    });
+
     $('.mystatus').mouseover(function(){
         $(this).fadeTo(100, .3);
      });

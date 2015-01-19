@@ -27,15 +27,15 @@ body{
  }
 
  /***Style for tabs***/
-#tab{
+#tabs{
     background-color: #3B758C ;
-    width: 500px;
+    width: 600px;
     height: 200px;
     padding: 20px;
 }
 
-#tab-nav{
-    width: 500px;
+#tabs-nav{
+    width: 600px;
     height: 100px;
     padding: 20px;
     background-color: #3B758C;
@@ -43,7 +43,7 @@ body{
     list-style-type: none;
 }
 
-#tab-nav li{
+#tabs-nav li{
     display: inline;
 }
 
@@ -93,7 +93,7 @@ span{
 
 /*****modal styles******/
 
-.overlay{
+#overlay{
     width: 100%;
     height: 100%;
     background: rgba(0,0,0,.5);
@@ -125,7 +125,7 @@ span{
     padding: 10px;
 }
 
-.modal p{
+#modal p{
     margin: 15px;
 }
 #modal .close{
@@ -147,7 +147,7 @@ form{
 form.input{
     padding: 10px;
 }
-#header{
+header{
     width: 960px;
 }
 
