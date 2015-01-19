@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css" afterPath="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css" />
     </list>
     <ignored path="Namenye_Jeff_PWA2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,7 +14,7 @@
     <file path="/dashboard.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421631657442" ignored="false" />
     <file path="/mystyle.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421158023016" ignored="false" />
     <file path="/main.js" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421632485849" ignored="false" />
-    <file path="/project.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421633350697" ignored="false" />
+    <file path="/project.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421641630223" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="project.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="36" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.733871">
+            <state line="33" column="77" selection-start="859" selection-end="859" vertical-scroll-proportion="-3.3333333">
               <folding />
             </state>
           </provider>
@@ -90,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="93" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0">
+            <state line="59" column="20" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.48757765">
               <folding />
             </state>
           </provider>
@@ -147,14 +145,14 @@
         <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/registration.html" />
         <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html" />
         <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/css/style.css" />
-        <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js" />
         <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html" />
+        <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="611" />
-    <option name="y" value="22" />
+    <option name="x" value="578" />
+    <option name="y" value="28" />
     <option name="width" value="914" />
     <option name="height" value="813" />
   </component>
@@ -342,7 +340,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="611" y="22" width="914" height="813" extended-state="1" />
+    <frame x="578" y="28" width="914" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -487,16 +485,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js">
+    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="93" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.0">
+        <state line="33" column="77" selection-start="859" selection-end="859" vertical-scroll-proportion="-3.3333333">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
+    <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="36" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.733871">
+        <state line="59" column="20" selection-start="1571" selection-end="1571" vertical-scroll-proportion="0.48757765">
           <folding />
         </state>
       </provider>

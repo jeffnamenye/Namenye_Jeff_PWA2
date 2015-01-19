@@ -49,7 +49,7 @@
         event.preventDefault();
         $('#overlay')
             .fadeIn()
-            .find('modal')
+            .find('#modal')
             .fadeIn();
     });
 
@@ -57,7 +57,7 @@
         event.preventDefault();
         $('#overlay')
             .fadeOut()
-            .find('modal')
+            .find('#modal')
             .fadeOut();
     });
 
