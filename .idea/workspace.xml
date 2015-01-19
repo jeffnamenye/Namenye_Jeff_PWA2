@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="" />
     <ignored path="Namenye_Jeff_PWA2.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1420466937760" ignored="false" />
@@ -45,7 +43,7 @@
       <file leaf-file-name="project.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="44" selection-start="982" selection-end="982" vertical-scroll-proportion="0.2643857">
+            <state line="39" column="44" selection-start="982" selection-end="982" vertical-scroll-proportion="0.24105754">
               <folding />
             </state>
           </provider>
@@ -466,7 +464,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="44" selection-start="982" selection-end="982" vertical-scroll-proportion="0.2643857">
+        <state line="39" column="44" selection-start="982" selection-end="982" vertical-scroll-proportion="0.24105754">
           <folding />
         </state>
       </provider>
