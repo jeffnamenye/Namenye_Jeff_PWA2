@@ -30,7 +30,7 @@
 
     /*======Tabbed Accordion======*/
     $('#tabs p').hide().eq(0).show();
-    $('#tabs p:(:first)').hide();
+    $('#tabs p:not(:first)').hide();
 
     $('#tabs-nav li').click(function(e){
         e.preventDefault();
