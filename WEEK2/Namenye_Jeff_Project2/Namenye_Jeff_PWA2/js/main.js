@@ -7,7 +7,7 @@
 
     /*========== tooltip =========*/
 
-    $(".masterTooltip").hover(function(){
+    $('.masterTooltip').hover(function(){
             //Hover over
             var title = $(this).attr('title');
             $(this).data('tipText' ,title).removeAttribute('title');
@@ -18,8 +18,8 @@
         },
         function(){
             //Hover out
-            $(this).attr("title",$(this).data("tipText"));
-            $(".toolTip").remove();
+            $(this).attr('title',$(this).data('tipText'));
+            $('.toolTip').remove();
         }) .mousemove(function(e) {
             var mousex = e.pageX + 20;
             var mousey = e.pageY + 10;
