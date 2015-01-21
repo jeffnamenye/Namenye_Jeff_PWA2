@@ -91,7 +91,7 @@ $(document).ready(function($){
 	
 <!--This is an example of how to embed Geolookup. Use your own API key and city location-->
     $.ajax({
-        url :  "http://api.wunderground.com/api/9ff834703875deb2/forecast/q/FL/Orlando.json",
+        url :  "http://api.wunderground.com/api/1adc975769fd6191/geolookup/conditions/q/FL/Orlando.json",
         dataType : "jsonp",
         success : function(parsed_json) {
             var location = parsed_json['location']['city'];
