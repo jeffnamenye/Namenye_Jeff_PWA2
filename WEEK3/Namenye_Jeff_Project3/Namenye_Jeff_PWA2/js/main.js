@@ -10,7 +10,7 @@
     $('.masterTooltip').hover(function(){
             //Hover over
             var title = $(this).attr('title');
-            $(this).data('tipText' ,title).removeAttribute('title');
+            $(this).data('tipText' ,title).removeAttr('title');
             $('<p class="tooltip"></p>')
                 .text(title)
                 .appendTo('body')
