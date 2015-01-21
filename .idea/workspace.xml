@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Project3/Namenye_Jeff_PWA2/registration.html" afterPath="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Project3/Namenye_Jeff_PWA2/registration.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html" afterPath="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html" />
     </list>
     <ignored path="Namenye_Jeff_PWA2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +14,7 @@
     <file path="/mystyle.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421158023016" ignored="false" />
     <file path="/main.js" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421643358407" ignored="false" />
     <file path="/project.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421641630223" ignored="false" />
-    <file path="/wuapi_Namenye_Jeff 2.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421766526848" ignored="false" />
+    <file path="/wuapi_Namenye_Jeff 2.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421860318356" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registration.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="registration.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEEK3/Namenye_Jeff_Project3/Namenye_Jeff_PWA2/registration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="106" selection-start="2301" selection-end="2301" vertical-scroll-proportion="0.7380952">
+            <state line="57" column="106" selection-start="2301" selection-end="2301" vertical-scroll-proportion="-19.375">
               <folding />
             </state>
           </provider>
@@ -88,10 +88,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wuapi_Namenye_Jeff 2.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="wuapi_Namenye_Jeff 2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="76" selection-start="2449" selection-end="2449" vertical-scroll-proportion="-21.791666">
+            <state line="93" column="93" selection-start="1846" selection-end="1846" vertical-scroll-proportion="0.5800933">
               <folding />
             </state>
           </provider>
@@ -127,15 +127,15 @@
         <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/dashboard.html" />
         <option value="$PROJECT_DIR$/WEEK2/Namenye_Jeff_Project2/Namenye_Jeff_PWA2/js/main.js" />
         <option value="$PROJECT_DIR$/../PWA2/Week3/Ex_Files_jq_data/Exercise Files/0107/end/ziptastic.html" />
-        <option value="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html" />
         <option value="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Project3/Namenye_Jeff_PWA2/js/main.js" />
         <option value="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Project3/Namenye_Jeff_PWA2/index.html" />
         <option value="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Project3/Namenye_Jeff_PWA2/registration.html" />
+        <option value="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="473" />
+    <option name="x" value="579" />
     <option name="y" value="51" />
     <option name="width" value="968" />
     <option name="height" value="813" />
@@ -248,7 +248,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="473" y="51" width="968" height="813" extended-state="0" />
+    <frame x="579" y="51" width="968" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -396,13 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="76" selection-start="2449" selection-end="2449" vertical-scroll-proportion="-21.791666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WEEK3/Namenye_Jeff_Project3/Namenye_Jeff_PWA2/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="84" selection-start="595" selection-end="595" vertical-scroll-proportion="0.0">
@@ -419,7 +412,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK3/Namenye_Jeff_Project3/Namenye_Jeff_PWA2/registration.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="106" selection-start="2301" selection-end="2301" vertical-scroll-proportion="0.7380952">
+        <state line="57" column="106" selection-start="2301" selection-end="2301" vertical-scroll-proportion="-19.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="93" selection-start="1846" selection-end="1846" vertical-scroll-proportion="0.5800933">
           <folding />
         </state>
       </provider>

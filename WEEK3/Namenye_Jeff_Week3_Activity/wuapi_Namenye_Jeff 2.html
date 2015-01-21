@@ -91,15 +91,14 @@ $(document).ready(function($){
 	
 <!--This is an example of how to embed Geolookup. Use your own API key and city location-->
     $.ajax({
-        url : "http://api.wunderground.com/api/90add14c59295e04/conditions/q/IN/South_Bend.json",
+        url :  "http://api.wunderground.com/api/9ff834703875deb2/forecast/q/FL/Orlando.json",
         dataType : "jsonp",
         success : function(parsed_json) {
             var location = parsed_json['location']['city'];
             var temp_f = parsed_json['current_observation']['temp_f'];
-           $(".three")("Current temperature in " + location + " is: " + temp_f+"ºF");
+            $(".three").html("Current temperature in "+location+" is "+temp_f);
         }
     });
-//Closes Doc Ready Function
 });
 	
 <!--Use your own API key and city location-->
