@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="" />
+    <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html" afterPath="$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html" />
+    </list>
     <ignored path="Namenye_Jeff_PWA2.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421856265920" ignored="false" />
@@ -12,7 +14,7 @@
     <file path="/mystyle.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421158023016" ignored="false" />
     <file path="/main.js" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421643358407" ignored="false" />
     <file path="/project.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421641630223" ignored="false" />
-    <file path="/wuapi_Namenye_Jeff 2.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421860318356" ignored="false" />
+    <file path="/wuapi_Namenye_Jeff 2.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421938267801" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,7 @@
       <file leaf-file-name="wuapi_Namenye_Jeff 2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="70" selection-start="2285" selection-end="2285" vertical-scroll-proportion="0.8600311">
+            <state line="109" column="68" selection-start="2344" selection-end="2344" vertical-scroll-proportion="0.5800933">
               <folding />
             </state>
           </provider>
@@ -246,7 +248,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="579" y="51" width="968" height="813" extended-state="0" />
+    <frame x="579" y="51" width="968" height="813" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -417,7 +419,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK3/Namenye_Jeff_Week3_Activity/wuapi_Namenye_Jeff 2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="70" selection-start="2285" selection-end="2285" vertical-scroll-proportion="0.8600311">
+        <state line="109" column="68" selection-start="2344" selection-end="2344" vertical-scroll-proportion="0.5800933">
           <folding />
         </state>
       </provider>

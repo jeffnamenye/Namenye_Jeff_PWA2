@@ -109,7 +109,15 @@ $(document).ready(function($){
 
 <!--2.Embed the WU 10-day forecast summary feature.-->	
 <!--Your Code Here-->
-	
+$.ajax({
+    url :  "http://api.wunderground.com/api/1adc975769fd6191/geolookup/forecast10day/q/FL/Orlando.json",
+    dataType : "jsonp",
+    success : function(parsed_json) {
+        var location = parsed_json['location']['city'];
+        var date.day = parsed_json['current_day']['day'];
+        $(".tenDay").html("Current temperature in "+location+" is " +date.day);
+    }
+});
 
 <!--3.Embed the WU Hourly 1-day forecast feature.-->	
 <!--Your Code Here-->
