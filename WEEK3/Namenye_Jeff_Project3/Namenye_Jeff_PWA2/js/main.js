@@ -69,6 +69,75 @@
         $(this).fadeTo(100, 1);
     });
 
+     /*======login======*/
+
+    $('#signinButton').click(function(){
+        var user = $('#user').val();
+        var pass = $('#pass').val();
+
+        $.ajax({
+            url: 'xhr/login.php',
+            type: 'post',
+            dataType: 'json',
+            data:{
+                username: user,
+                password: pass
+            },
+            success:function(reponse){
+                if(reponse.error){
+                    alert(response.error);
+                }
+                else{window.location.assign('admin.html')
+                };
+            }
+        });
+    });
+
+        /*=======logout======*/
+     $('#logOut').click(function(e){
+         e.preventDefault;
+         $.get('xhr/logout.php', function(){
+             window.location.assign('index.html')
+         })
+     });
+
+    /*======registration======*/
+
+     $('#register').on('click', function(){
+         var firstname= $('#first').val(),
+             lastname= $('#last').val(),
+             username= $('#username').val(),
+             email= $('#email').val(),
+             confirmemail= $('#confiemail').val(),
+             password= $('#password').val(),
+             confirmpassword= $('#confirmpassword').val();
+
+         $.ajax({
+             url: 'xhr/register.php',
+             type: 'post',
+             dataType: 'json',
+             data:{
+                 firstname:firstname,
+                 lastname:lastname,
+                 username:username,
+                 email: email,
+                 confirmemail:confirmemail,
+                 password:password,
+                 confirmpassword:confirmpassword
+
+             },
+
+             success: function(response){
+                 if(response.error){
+                     alert(response.error);
+                 } else{
+                     window.loction.assign('admin.html')
+                 }
+             }
+
+         });
+
+     })
 
 
 	
