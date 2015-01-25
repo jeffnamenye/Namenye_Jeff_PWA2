@@ -139,8 +139,17 @@
 
      })
 
+    /*======Display Username======*/
+    $.getJSON("xhr/check_login.php", function(data){
+        console.log(data);
+        $.each(data, function(key, val){
+            console.log(val.first_name);
+            $(".userid").html("Welcome:" +val.firstname);
+        })
+    });
 
-	
+
+
 })(jQuery); // end private scope
 
 
