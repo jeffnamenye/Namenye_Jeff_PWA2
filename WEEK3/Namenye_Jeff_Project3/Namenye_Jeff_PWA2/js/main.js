@@ -148,6 +148,102 @@
         })
     });
 
+    /*======Go to Projects button======*/
+
+   $('.projectsbtn').on('click', function(e){
+       e.preventDefault();
+       window.location.assign('projects.html');
+   });
+
+    /*======New Projects======*/
+
+  $('#addButton').on('click',function(){
+
+      var recipieName = $('#recipieName').val(),
+      ingredients = $('#ingredients').val(),
+      directions = $('#directions').val(),
+      cooking = $('#cooking').val();
+
+      $.ajax({
+          url: "xhr/new_project.php",
+          type: "post",
+          dataType: "json",
+          data: {
+              recipieName:recipieName,
+              ingedients:ingredients,
+              directions:directions,
+              cooking:cooking
+          },
+          success: function(response){
+
+              if(reponse.error){
+                  alert(response.error);
+              }else{
+                  window.location.assign("project.html");
+              };
+
+          }
+      });
+  });
+    /*======Get project======*/
+
+
+    var projects = function(){
+
+        $.ajax({
+            url: 'xhr/get_projects.php',
+            type: 'get',
+            dataType: 'json',
+            success: function(response){
+                if(response.error){
+                    console.log(response.error);
+                }else{
+
+
+                      for( var i= 0, j=response.projects.length; i < j; i++){
+                       var results = response.projects[i];
+
+                        $(".projects").append(
+                            '<div style="border:1px solid black">' +
+                             "<input class='projectid' type='hidden' value='"  + results.id + "'>" +
+                              "Recipie Name: " + result.recipieName + "<br>"  +
+                              "Ingredients: " + result.ingedients + "<br>" +
+                              "Directions: " + result.directions + "<br>" +
+                              "Cooking: " + result.cooking + "<br>"
+                            + '<button class="deletebtn">Delete</button> '
+                            + '<button class="editbtn">Edit</button> '
+                            + '</div> <br>'
+                        );
+                    };
+
+                    $('.deletebtn').on('click', function(e){
+                        $.ajax({
+                            url: 'xhr/delete_project.php',
+                            data: {
+                                projectID: result.id
+                            },
+
+                            type: 'POST',
+                            dataType: 'json',
+                            success: function(response){
+                                if (respnse.error){
+                                    alert(respnse.error);
+                                }else{
+                                    window.loctation.assign("project.html");
+                                };
+                            }
+                        });
+                    });
+
+
+                }
+            }
+        })
+    }
+
+     projects();
+
+
 
 
 })(jQuery); // end private scope
