@@ -1,0 +1,201 @@
+
+
+body{
+    background-color: #CCC4A8;
+}
+
+
+ .header{
+     display: inline;
+     text-align:center;
+     margin: 20px;
+
+ }
+
+ /******tooltip style*****/
+
+ .tooltip{
+     display: none;
+     position: absolute;
+     border: 1px solid #333;
+     background-color: #000000;
+     border-radius: 5px;
+     padding: 10px;
+     color: #ffffff;
+     font: Georgia;
+     font-size: 12px ;
+ }
+
+ /***Style for tabs***/
+#tabs{
+    background-color: #3B758C ;
+    width: 600px;
+    height: 200px;
+    padding: 20px;
+}
+
+#tabs-nav{
+    width: 600px;
+    height: 100px;
+    padding: 20px;
+    background-color: #3B758C;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#tabs-nav li{
+    display: inline;
+}
+
+
+.one{
+
+    margin: 30px;
+}
+
+.button{
+       background-color: #274659;
+}
+
+ /***style of my buttons***/
+#input.button:hover {
+    width: 100px;
+    margin-left: 50px;
+    float: none;
+    position:absolute;
+    display: inline-block;
+
+}
+/***style of my register****/
+.reg{
+    width: 400px;
+    margin: 0 auto;
+    position: inherit;
+    top: 10px;
+}
+
+li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 350px;
+}
+
+ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 350px;
+}
+span{
+    background-colorcolor: red;
+
+}
+
+/*****modal styles******/
+
+#overlay{
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: none;
+}
+
+#modal {
+    width: 350px;
+    background:#84B4BF;
+    box-shadow: 0 0 10px #000;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    z-index: 1001;
+    display: none;
+}
+
+#modal .header {
+    background: #274659;
+    color: #000;
+    padding: 10px;
+}
+
+#modal p{
+    margin: 15px;
+}
+#modal .close{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    background-color: #f00;
+}
+
+form{
+    padding: 10px;
+}
+
+form.input{
+    padding: 10px;
+}
+header{
+    width: 960px;
+}
+
+.userid{
+    width: 100px;
+    float: left;
+}
+
+.logoutbox{
+    width: 400px;
+    float: right;
+}
+
+#header .userid .logoutbox{
+    display: inline;
+}
+
+.mystatus > input[type=radio]{
+    display: none;
+}
+
+input[type=radio] + img{
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+input[type=radio]:checked + img{
+    border: 2px solid #f00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

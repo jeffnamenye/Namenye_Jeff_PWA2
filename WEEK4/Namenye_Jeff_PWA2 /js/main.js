@@ -87,7 +87,7 @@
                 if(reponse.error){
                     alert(response.error);
                 }
-                else{window.location.assign('dashboard.html')
+                else{window.location.assign('dashboard.html');
                 };
             }
         });
@@ -108,9 +108,9 @@
              lastname= $('#last').val(),
              username= $('#username').val(),
              email= $('#email').val(),
-             confirmemail= $('#confiemail').val(),
-             password= $('#password').val(),
-             confirmpassword= $('#confirmpassword').val();
+             //confirmemail= $('#confiemail').val(),
+             password= $('#password').val()
+             //confirmpassword= $('#confirmpassword').val();
 
          $.ajax({
              url: 'xhr/register.php',
@@ -121,9 +121,9 @@
                  lastname:lastname,
                  username:username,
                  email: email,
-                 //confirmemail:confirmemail,
+                // confirmemail:confirmemail,
                  password:password
-                // confirmpassword:confirmpassword
+                 //confirmpassword:confirmpassword
 
              },
 
@@ -152,7 +152,7 @@
 
    $('.projectsbtn').on('click', function(e){
        e.preventDefault();
-       window.location.assign('project.html');
+       window.location.assign('project.html');  //No S
    });
 
     /*======New Projects======*/
@@ -164,19 +164,20 @@
       directions = $('#directions').val(),
       cooking = $('#cooking').val();
 
-      $.ajax({
-          url: "xhr/new_project.php",
-          type: "post",
-          dataType: "json",
-          data: {
-              recipieName:recipieName,
-              ingedients:ingredients,
-              directions:directions,
-              cooking:cooking
+     $.ajax({
+		url: "xhr/new_project.php",
+		type: "post",
+		dataType: "json",
+		data: {
+              projectName: recipieName,
+              projectDescription: ingredients,
+              status: directions,
+              dueDate: cooking
           },
-          success: function(response){
+          success: function(response) {
+			console.log('Testing for success');
 
-              if(reponse.error){
+              if(response.error){
                   alert(response.error);
               }else{
                   window.location.assign("project.html");
@@ -185,31 +186,32 @@
           }
       });
   });
+  
+ 
     /*======Get project======*/
 
 
     var projects = function(){
-
-        $.ajax({
-            url: 'xhr/get_projects.php',
-            type: 'get',
-            dataType: 'json',
-            success: function(response){
-                if(response.error){
-                    console.log(response.error);
-                }else{
+  
+  $.ajax({
+	  url: 'xhr/get_projects.php',
+	  type: 'get',
+	  dataType: 'json',
+	  success: function(response){
+		  if(response.error){
+			  console.log(response.error);
+		  }else{
 
 
                       for( var i= 0, j=response.projects.length; i < j; i++){
-                       var results = response.projects[i];
-
+                       var result = response.projects[i];
                         $(".projects").append(
                             '<div style="border:1px solid black">' +
-                             "<input class='projectid' type='hidden' value='"  + results.id + "'>" +
-                              "Recipie Name: " + result.recipieName + "<br>"  +
-                              "Ingredients: " + result.ingedients + "<br>" +
-                              "Directions: " + result.directions + "<br>" +
-                              "Cooking: " + result.cooking + "<br>"
+                             "<input class='projectid' type='hidden' value='"  + result.id + "'>" +
+                              "Recipie Name: " + result.projectName + "<br>"  +
+                              "Ingredients: " + result.projectDescription + "<br>" +
+                              "Directions: " + result.status + "<br>" +
+                              "Cooking: " + result.dueDate + "<br>"
                             + '<button class="deletebtn">Delete</button> '
                             + '<button class="editbtn">Edit</button> '
                             + '</div> <br>'
@@ -226,10 +228,10 @@
                             type: 'POST',
                             dataType: 'json',
                             success: function(response){
-                                if (respnse.error){
-                                    alert(respnse.error);
+                                if (response.error){
+                                    alert(response.error);
                                 }else{
-                                    window.loctation.assign("project.html");
+                                    window.location.assign("project.html");
                                 };
                             }
                         });
