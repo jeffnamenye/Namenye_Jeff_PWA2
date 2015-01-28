@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6ab013ef-8777-4afc-afc9-19b8cedded03" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /dashboard.html" afterPath="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /index.html" afterPath="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /project.html" afterPath="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /project.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /css/style.css" afterPath="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /css/style.css" />
     </list>
     <ignored path="Namenye_Jeff_PWA2.iws" />
@@ -12,8 +10,8 @@
     <file path="/Dummy.txt" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421856265920" ignored="false" />
     <file path="/index.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1422454973224" ignored="false" />
     <file path="/registration.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1422119639210" ignored="false" />
-    <file path="/style.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1422459262145" ignored="false" />
-    <file path="/dashboard.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1422458914992" ignored="false" />
+    <file path="/style.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1422463569057" ignored="false" />
+    <file path="/dashboard.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1422464260419" ignored="false" />
     <file path="/mystyle.css" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1421158023016" ignored="false" />
     <file path="/main.js" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1422366876329" ignored="false" />
     <file path="/project.html" changelist="6ab013ef-8777-4afc-afc9-19b8cedded03" time="1422456302278" ignored="false" />
@@ -37,19 +35,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="106" selection-start="320" selection-end="320" vertical-scroll-proportion="0.22488755">
+            <state line="102" column="87" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="dashboard.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="99" selection-start="1444" selection-end="1444" vertical-scroll-proportion="-6.4166665">
+            <state line="100" column="94" selection-start="3382" selection-end="3382" vertical-scroll-proportion="0.8396825">
               <folding />
             </state>
           </provider>
@@ -125,14 +123,14 @@
         <option value="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /js/main.js" />
         <option value="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /index.html" />
         <option value="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /project.html" />
-        <option value="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /dashboard.html" />
         <option value="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /css/style.css" />
+        <option value="$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /dashboard.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="304" />
-    <option name="y" value="59" />
+    <option name="x" value="471" />
+    <option name="y" value="62" />
     <option name="width" value="968" />
     <option name="height" value="813" />
   </component>
@@ -247,7 +245,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="304" y="59" width="968" height="813" extended-state="1" />
+    <frame x="471" y="62" width="968" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -410,13 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="99" selection-start="1444" selection-end="1444" vertical-scroll-proportion="-6.4166665">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /project.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="101" selection-start="1254" selection-end="1254" vertical-scroll-proportion="-10.625">
@@ -426,7 +417,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="106" selection-start="320" selection-end="320" vertical-scroll-proportion="0.22488755">
+        <state line="102" column="87" selection-start="1402" selection-end="1402" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK4/Namenye_Jeff_PWA2 /dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="94" selection-start="3382" selection-end="3382" vertical-scroll-proportion="0.8396825">
           <folding />
         </state>
       </provider>

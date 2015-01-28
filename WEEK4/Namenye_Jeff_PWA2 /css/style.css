@@ -46,12 +46,13 @@ h3{
 
 }
 #tabs{
-    background-color: #3B758C ;
+    background-color:#84B4BF ;
     width: 600px;
     height: 100px;
     padding: 2px;
     margin: 40px;
     text-align: center;
+    border: #3B758C solid 2px ;
 }
 
 #tabs-nav{
@@ -59,7 +60,8 @@ h3{
     height: 100px;
     padding: 20px;
     margin: 20px ;
-    background-color: #3B758C;
+    background-color: #84B4BF;
+    border: #3B758C solid 2px;
     text-decoration: none;
     list-style-type: none;
     text-align: center;
@@ -75,6 +77,27 @@ h3{
 .one{
 
     text-align: center;
+}
+/******photo gallery******/
+.three{
+    text-align: center;
+}
+
+.three img{
+    border-width: 2px;
+    padding: 1px;
+    border-style: solid;
+    border-color: #3B758C;
+}
+
+.thre img{
+    margin: .5px;
+    transition: all .5s ease;
+}
+
+.three img:hover{
+    transform: scale(1.5);
+    box-shadow:1px 1px 1.5px;
 }
 
 
@@ -99,6 +122,7 @@ h3{
     margin: 0 auto;
     position: inherit;
     top: 10px;
+    border: #3B758C solid 2px;
 }
 
 li{
