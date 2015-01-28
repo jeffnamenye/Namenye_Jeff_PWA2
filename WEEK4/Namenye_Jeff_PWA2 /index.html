@@ -29,30 +29,36 @@ Jeffrey Namenye
 	
 </head>
 
-<body>      <!--My logo-->
+<body>
+ <div class="myBack">
+
+                                    <!--My logo-->
+
        <div class="header">
-          <h1> <img src="images/Jenna_Logo2.png" alt="logo" width="200" height="100" />     </h1>
-       </div>
+          <h1> <img src="images/Jenna_Logo2.png" alt="logo" width="200" height="100" />     </h1>  <br>
+
          <h1>Welcome to Jenna's Sweet Treats</h1>
-
-          <!--my login for registred users-->
-       <div id="login">
-            <form id="loginForm">
-                <label> User Name: </label>
-                <input type="text" name="username" id="user" class= "masterTooltip" title="Please Enter User Name"
-                  autofocus placeholder="User Name" required>
-                     <br>
-                <label>Password:</label>
-                 <input type="text" name="password" id="pass" class= "masterTooltip" title="Please Enter Password" autofocus placeholder="Password" required>
-            </form>
-            <button name="signinButton" id="signinButton">Sign in</button>
        </div>
+          <!--my login for registred users-->
+         <div class="two">
+               <div id="login">
+                    <form id="loginForm">
+                        <label> User Name: </label>
+                        <input type="text" name="username" id="user" class= "masterTooltip" title="Please Enter User Name"
+                          autofocus placeholder="User Name" required>
+                             <br>
+                        <label>Password:</label>
+                         <input type="text" name="password" id="pass" class= "masterTooltip" title="Please Enter Password" autofocus placeholder="Password" required>
+                    </form>
+                    <button name="signinButton" id="signinButton">Sign in</button>
+               </div>
 
-        <!--takes you to the registration page-->
-       <h1>Sign up now</h1>
-       <p>To gain all access to the great do it yourself reciepes and all the great products</p>
-      <button type="submit" onclick="parent.location='registration.html'" >Join Now</button>
-	
+                <!--takes you to the registration page-->
+               <h1>Sign up now</h1>
+               <p>To gain all access to the great do it yourself reciepes and all the great products</p>
+              <button type="submit" onclick="parent.location='registration.html'" >Join Now</button>
+         </div>
+ </div>
 	<!-- jquery -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>

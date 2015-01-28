@@ -4,6 +4,9 @@ body{
     background-color: #CCC4A8;
 }
 
+.myBack {
+    background-image: url("");
+}
 
  .header{
      display: inline;
@@ -11,6 +14,17 @@ body{
      margin: 20px;
 
  }
+h3{
+    text-align: center;
+}
+
+ /*********index style********/
+
+.two{
+    text-align: center;
+    background-color: #84B4BF;
+    border: #274659 solid 2px;
+}
 
  /******tooltip style*****/
 
@@ -27,31 +41,43 @@ body{
  }
 
  /***Style for tabs***/
+.thee{
+
+
+}
 #tabs{
     background-color: #3B758C ;
     width: 600px;
-    height: 200px;
-    padding: 20px;
+    height: 100px;
+    padding: 2px;
+    margin: 40px;
+    text-align: center;
 }
 
 #tabs-nav{
     width: 600px;
     height: 100px;
     padding: 20px;
+    margin: 20px ;
     background-color: #3B758C;
     text-decoration: none;
     list-style-type: none;
+    text-align: center;
 }
 
 #tabs-nav li{
     display: inline;
+
 }
+
 
 
 .one{
 
-    margin: 30px;
+    text-align: center;
 }
+
+
 
 .button{
        background-color: #274659;
@@ -68,6 +94,7 @@ body{
 }
 /***style of my register****/
 .reg{
+    background-color: #84B4BF;
     width: 400px;
     margin: 0 auto;
     position: inherit;
