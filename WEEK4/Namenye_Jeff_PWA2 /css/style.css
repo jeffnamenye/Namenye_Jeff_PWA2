@@ -6,7 +6,6 @@ body{
 }
 
 
-
  .header{
      display: inline;
      text-align:center;
@@ -23,6 +22,8 @@ h3{
     text-align: center;
     background-color: #84B4BF;
     border: #274659 solid 2px;
+    padding: 10px
+
 }
 
  /******tooltip style*****/
