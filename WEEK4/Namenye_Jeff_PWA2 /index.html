@@ -25,6 +25,9 @@ Jeffrey Namenye
 	
 	<!-- CSS concatenated and minified via ant build script-->
 	<link rel="stylesheet" href="css/style.css?v=1">
+
+    <link rel="stylesheet" href="js/jquery-ui-1.11.2.custom/jquery-ui.structure.css" >
+    <link rel="stylesheet" href="js/jquery-ui-1.11.2.custom/jquery-ui.theme.min.css" >
 	<!-- end CSS-->
 	
 </head>
@@ -40,6 +43,7 @@ Jeffrey Namenye
          <h1>Welcome to Jenna's Sweet Treats</h1>
        </div>
           <!--my login for registred users-->
+
          <div class="two">
                <div id="login">
                     <form id="loginForm">
@@ -48,23 +52,25 @@ Jeffrey Namenye
                           autofocus placeholder="User Name" required>
                              <br>
                         <label>Password:</label>
-                         <input type="text" name="password" id="pass" class= "masterTooltip" title="Please Enter Password" autofocus placeholder="Password" required>
+                         <input type="password" name="password" id="pass" class= "masterTooltip" title="Please Enter Password" autofocus placeholder="Password" required>
                     </form>
                     <button name="signinButton" id="signinButton">Sign in</button>
+
                </div>
 
                 <!--takes you to the registration page-->
                <h1>Sign up now</h1>
                <p>To gain all access to the great do it yourself reciepes and all the great products</p>
               <button type="submit" onclick="parent.location='registration.html'" >Join Now</button>
-         </div>
+
+     </div>
  </div>
 	<!-- jquery -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 <!-- plugins -->
-	
+ <script src="js/jquery-ui-1.11.2.custom/jquery-ui.min.js" ></script>
 	<!-- main -->
 	<script type="text/javascript" src="js/main.js"></script>
   

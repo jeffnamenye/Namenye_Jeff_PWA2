@@ -2,11 +2,10 @@
 
 body{
     background-color: #CCC4A8;
+
 }
 
-.myBack {
-    background-image: url("");
-}
+
 
  .header{
      display: inline;
@@ -49,7 +48,7 @@ h3{
     background-color:#84B4BF ;
     width: 600px;
     height: 100px;
-    padding: 2px;
+    padding: 20px;
     margin: 40px;
     text-align: center;
     border: #3B758C solid 2px ;
@@ -99,7 +98,7 @@ h3{
     transform: scale(1.5);
     box-shadow:1px 1px 1.5px;
 }
-
+/******end photo gallery******/
 
 
 .button{
@@ -229,8 +228,14 @@ input[type=radio]:checked + img{
     border: 2px solid #f00;
 }
 
+/****projects and sortable****/
+.projects{
+    font-family: georgia;
+}
 
-
+#sortable{list-style-type: none; margin: 0; padding: 10px; width: 98%}
+#sortable li { margin: 0 3px 3px; padding: 0.8em; padding-left: 1.5em; font-size: 1em; height: 90px;}
+#sortable li span{ position: absolute; margin-left: -1.3em;}
 
 
 

@@ -25,6 +25,8 @@ Jeffrey Namenye
 
     <!-- CSS concatenated and minified via ant build script-->
     <link rel="stylesheet" href="css/style.css?v=1">
+    <link rel="stylesheet" href="js/jquery-ui-1.11.2.custom/jquery-ui.structure.css" >
+    <link rel="stylesheet" href="js/jquery-ui-1.11.2.custom/jquery-ui.theme.min.css" >
     <!-- end CSS-->
 
 </head>
@@ -35,8 +37,9 @@ Jeffrey Namenye
        <div class="userid">Welcome:
        </div>
     <div class="logoutbox">
-        <button class="dashboard">Dashboard</button>
+        <input name="dashboard" type="button" id="dashboard" value="dashboard"/>
        <input name="logOut" type="button" id="logOut" value="Sign Out"/>
+
     </div>
 
         <div class="header">
@@ -95,7 +98,7 @@ Jeffrey Namenye
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <!-- plugins -->
 
-
+    <script src="js/jquery-ui-1.11.2.custom/jquery-ui.min.js" ></script>
 <!-- main -->
 <script type="text/javascript" src="js/main.js"></script>
 

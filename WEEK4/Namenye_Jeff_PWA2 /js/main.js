@@ -186,8 +186,11 @@
           }
       });
   });
-  
- 
+    /******dashboard button******/
+    $('.logoutBox').on('click', function(e){
+        e.preventDefault();
+        window.location.assign('project.html');  //No S
+    });
     /*======Get project======*/
 
 
@@ -206,7 +209,7 @@
                       for( var i= 0, j=response.projects.length; i < j; i++){
                        var result = response.projects[i];
                         $(".projects").append(
-                            '<div style="border:1px solid black">' +
+                            '<div id="sortable" class="ui-state-default">' +
                              "<input class='projectid' type='hidden' value='"  + result.id + "'>" +
                               "Recipie Name: " + result.projectName + "<br>"  +
                               "Ingredients: " + result.projectDescription + "<br>" +
@@ -244,9 +247,22 @@
     }
 
      projects();
+   /************Date picker*******/
+          $(".mydatepicker").datepicker();
 
+    /*****buttons*****/
 
+     /*****Sortable*****/
+     $("#sortable" ).sortable();
+     $("#sortable").disableSelection();
 
+    $(function() {
+        $( "input[type=submit], a, button" )
+            .button()
+            .click(function( event ) {
+                event.preventDefault();
+            });
+    });
 
 })(jQuery); // end private scope
 
